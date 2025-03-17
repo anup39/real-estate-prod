@@ -51,7 +51,7 @@ const Navbar = () => {
           >
             <div className="flex items-center gap-3">
               <Image
-                src="./logo"
+                src="logo.svg"
                 alt="Omega Real Homes Logo"
                 width={24}
                 height={24}
