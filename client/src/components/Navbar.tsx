@@ -51,7 +51,7 @@ const Navbar = () => {
           >
             <div className="flex items-center gap-3">
               <Image
-                src="https://omegarealhomes.com/wp-content/uploads/2024/11/cropped-Omega-Real-state-1-04-2048x1463.png"
+                src="./logo"
                 alt="Omega Real Homes Logo"
                 width={24}
                 height={24}
